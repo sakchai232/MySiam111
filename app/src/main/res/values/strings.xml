@@ -2,4 +2,7 @@
     <string name="app_name">My Siam</string>
     <string name="title">มหาวิทยาลัยสยาม</string>
     <string name="login">LOGIN</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+
 </resources>
